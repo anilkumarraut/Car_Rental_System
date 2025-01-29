@@ -4,6 +4,8 @@ import numpy as np
 from sqlalchemy import create_engine, text
 from datetime import datetime, date, timedelta
 
+# To use .txt file to get the idea to create a virtual environment to work with it,
+
 # Database connection
 engine = create_engine('postgresql://ryanh:1564@localhost:5432/car_rental')
 
