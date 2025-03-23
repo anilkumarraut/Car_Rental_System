@@ -104,3 +104,23 @@ The **Car Rental Management System** is a comprehensive database project designe
 
 ## Acknowledgments
 This project is part of the **Car Rental Database Management System** coursework, showcasing advanced database design and analytics techniques.
+
+
+
+# Create Virtual Environment
+python -m venv venv
+
+# Activate Virtual Environment
+# Git Bash / Unix-like terminal
+source venv/Scripts/activate
+
+# Install dependencies
+pip install streamlit sqlalchemy psycopg2 pandas numpy
+
+# Run Streamlit app
+streamlit run main.py
+
+# Deactivate Virtual Environment
+deactivate
+
+
