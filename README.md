@@ -117,7 +117,7 @@ source venv/Scripts/activate
 # Install dependencies
 pip install streamlit sqlalchemy psycopg2 pandas numpy
 
-# Run Streamlit app
+
 
 
 
