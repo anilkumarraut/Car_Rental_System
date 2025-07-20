@@ -121,6 +121,6 @@ pip install streamlit sqlalchemy psycopg2 pandas numpy
 streamlit run main.py
 
 # Deactivate Virtual Environment
-deactivate
+
 
 
