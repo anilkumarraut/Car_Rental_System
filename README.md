@@ -114,8 +114,6 @@ python -m venv venv
 # Git Bash / Unix-like terminal
 source venv/Scripts/activate
 
-# Install 
-
 
 
 
