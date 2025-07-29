@@ -115,7 +115,7 @@ python -m venv venv
 source venv/Scripts/activate
 
 # Install dependencies
-pip install streamlit sqlalchemy psycopg2 pandas numpy
+pip install streamlit sqlalchemy psycopg2 pandas 
 
 
 
