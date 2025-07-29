@@ -115,8 +115,6 @@ python -m venv venv
 source venv/Scripts/activate
 
 # Install dependencies
-pip 
-
 
 
 
