@@ -115,7 +115,7 @@ python -m venv venv
 source venv/Scripts/activate
 
 # Install dependencies
-pip install streamlit sqlalchemy 
+pip install streamlit 
 
 
 
